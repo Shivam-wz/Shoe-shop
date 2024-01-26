@@ -1,0 +1,25 @@
+.custom-list {
+  list-style-type: none; /* Remove the default list style (dot) */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+.Items {
+  text-align: center;
+  position: relative;
+  left: 160px;
+}
+
+.Cart {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.dbody {
+  width: 500px;
+}
+
+.AddCandy {
+  width: 900px;
+}
